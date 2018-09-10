@@ -1,0 +1,8 @@
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\bin\Debug\netcoreapp2.1\Sentry.DemoApp.deps.json
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\bin\Debug\netcoreapp2.1\Sentry.DemoApp.runtimeconfig.json
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\bin\Debug\netcoreapp2.1\Sentry.DemoApp.runtimeconfig.dev.json
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\bin\Debug\netcoreapp2.1\Sentry.DemoApp.dll
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\obj\Debug\netcoreapp2.1\Sentry.DemoApp.csprojAssemblyReference.cache
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\obj\Debug\netcoreapp2.1\Sentry.DemoApp.csproj.CoreCompileInputs.cache
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\obj\Debug\netcoreapp2.1\Sentry.DemoApp.AssemblyInfoInputs.cache
+D:\Git\GitHub\SentryDemo\Sentry.Demo\Sentry.DemoApp\obj\Debug\netcoreapp2.1\Sentry.DemoApp.AssemblyInfo.cs
